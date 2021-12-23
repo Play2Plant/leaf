@@ -64,7 +64,7 @@ export default function App(): JSX.Element {
   }, [connector]);
   return (
     <View style={[StyleSheet.absoluteFill, styles.center, styles.white]}>
-      <Text >LEAF</Text>
+      <Text >LEAF ...</Text>
       <Text testID="tid-message">{message}</Text>
       {!connector.connected && (
         <TouchableOpacity onPress={connectWallet}>
