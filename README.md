@@ -1,5 +1,7 @@
 # Leaf
 
+![alt text](https://github.com/Play2Plant/leaf/blob/master/zSCREENSHOTS/Screenshot_20220106_050132_host.exp.exponent.jpg)
+
 #### Instalation
 
 - npm install -g expo-cli (si besoin)
