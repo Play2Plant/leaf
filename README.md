@@ -12,13 +12,12 @@ Avec cette application le joueur peut faire les actions suivantes :
   - voir les données qui le concernent
   - déconnecter l'application du wallet
 
-#### Instalation
-
+## Installation
 - `npm install -g expo-cli` (si besoin)
 - `git clone https://github.com/Play2Plant/leaf.git`
 - `yarn install`
 
-#### Execution 
+## Exécution 
 - `cd leaf`
 - `expo start`
 
