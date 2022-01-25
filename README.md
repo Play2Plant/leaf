@@ -15,10 +15,10 @@ Avec cette application le joueur peut faire les actions suivantes :
 ## Installation
 - `npm install -g expo-cli` (si besoin)
 - `git clone https://github.com/Play2Plant/leaf.git`
+- `cd leaf`
 - `yarn install`
 
 ## Exécution 
-- `cd leaf`
 - `expo start`
 
 
