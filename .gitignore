@@ -73,5 +73,5 @@ web-build/
 package-lock.json
 
 # Hardhat
-artifacts/
+# artifacts/
 cache/
