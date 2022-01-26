@@ -17,6 +17,9 @@ Avec cette application le joueur peut faire les actions suivantes :
   - **LEAF : 0x3BFf79747cbb81AD5547F01957c1F9E224f1358c**
   - **LNFT : 0x291F4289ff8f366103cFD5b3Ad9D98cbf5C32825**
 
+## Lien pour voir la vidéo de l'app Leaf
+https://drive.google.com/file/d/1Pzh7VBEuVP5uQ1bodqiYjuk_LSPGkyW5/view
+
 ## Installation
 - `npm install -g expo-cli` (si besoin)
 - `git clone https://github.com/Play2Plant/leaf.git`
